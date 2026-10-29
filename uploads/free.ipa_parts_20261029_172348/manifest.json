@@ -1,0 +1,65 @@
+{
+  "original_filename": "free.ipa",
+  "original_size_bytes": 483935303,
+  "original_sha256": "e062a16983d5b81c752a5ed926192834b3df3bcbec1f2b0471355e1a3a0495a0",
+  "part_size_bytes": 47185920,
+  "part_count": 11,
+  "parts": [
+    {
+      "filename": "part001.bin",
+      "size_bytes": 47185920,
+      "sha256": "06dd42e72c4beb0720ff6e7229e29bf45f615399aac8dbce3ee48e65e8267804"
+    },
+    {
+      "filename": "part002.bin",
+      "size_bytes": 47185920,
+      "sha256": "31b89cfd5ddd443dfdda633e4d7140b5d1568fad53b4959c8aa77d9ad4002b2d"
+    },
+    {
+      "filename": "part003.bin",
+      "size_bytes": 47185920,
+      "sha256": "c3acec5ef6766ec40996be01e34ebf0ebc5c672674561230f204520d3fe3ec6b"
+    },
+    {
+      "filename": "part004.bin",
+      "size_bytes": 47185920,
+      "sha256": "aeeb3f1718b8e7c0cc59c1babd9e4aabe6e7c32b7cf26e60aab262b744d09c28"
+    },
+    {
+      "filename": "part005.bin",
+      "size_bytes": 47185920,
+      "sha256": "2e56a8883c01f3dfb5938584b2130f27846f23359efcd75051c3aa7c1a372841"
+    },
+    {
+      "filename": "part006.bin",
+      "size_bytes": 47185920,
+      "sha256": "757222f796e2c5a62b9bece6bfa03320dd59faa76044f28913c6087c0c6c2dbf"
+    },
+    {
+      "filename": "part007.bin",
+      "size_bytes": 47185920,
+      "sha256": "68af637f3c9219079d249fa5f384d3a017e399ef14e652b21eba4385eb62d15f"
+    },
+    {
+      "filename": "part008.bin",
+      "size_bytes": 47185920,
+      "sha256": "c030dfac76c39fc9c356dbc19071f9bd192016a3fd16abba76c6542f372f8422"
+    },
+    {
+      "filename": "part009.bin",
+      "size_bytes": 47185920,
+      "sha256": "7fadcc38443d71d47e54e65a818fc61b5af4a98379b74405421ad6b657f07feb"
+    },
+    {
+      "filename": "part010.bin",
+      "size_bytes": 47185920,
+      "sha256": "df1856012953e6f776a3558febca553f75b5090bfee1397c9424c62362ab29ba"
+    },
+    {
+      "filename": "part011.bin",
+      "size_bytes": 12076103,
+      "sha256": "317073a2da3d59d114dae79224672704a5d5a95c88b81d01b10f70d41bbdbaef"
+    }
+  ],
+  "storage": "ordinary Git files; Git LFS is not used"
+}
